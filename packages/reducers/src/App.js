@@ -2,8 +2,8 @@
 
 function App() {
   return (
-    <div >
-      
+    <div className="ui container">
+      Hello
     </div>
   );
 }
