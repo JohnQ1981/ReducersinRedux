@@ -1,9 +1,9 @@
-
+import PostList from "./components/PostList";
 
 function App() {
   return (
     <div className="ui container">
-      Hello
+       <PostList />
     </div>
   );
 }
